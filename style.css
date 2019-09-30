@@ -1,0 +1,21 @@
+body{
+  margin: 0 auto;
+  max-width: 45em;
+  padding: 4em 10em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  color: 	#000080;
+  background-color:#baeeff;
+}
+img{
+  max-height: 400px;
+}
+h1, h2{
+  color: black;
+}
+#italicolsun{
+  font-style: italic;
+}
+#italicolsun2{
+  font-style: italic;
+}
